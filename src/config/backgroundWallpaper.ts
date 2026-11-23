@@ -107,13 +107,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "GitHub",
 					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
+					url: "https://github.com/Zcodeoooo/Zcode.github.io",
 					showName: true,
 				},
 				{
 					name: "Email",
 					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
+					url: "status.zcode@gmail.com",
 				},
 				{
 					name: "Sponsor",
