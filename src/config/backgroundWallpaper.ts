@@ -116,11 +116,6 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "mailto:status.zcode@gmail.com",
 				},
 				{
-					name: "Sponsor",
-					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
-				},
-				{
 					name: "RSS",
 					icon: "fa7-solid:rss",
 					url: "/rss/",
